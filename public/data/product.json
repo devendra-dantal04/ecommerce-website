@@ -1,0 +1,132 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Wireless Mouse",
+        "image_url": "https://example.com/images/wireless_mouse.jpg",
+        "price": 25.99,
+        "description": "A reliable and ergonomic wireless mouse with adjustable DPI.",
+        "categories": ["Electronics", "Accessories"],
+        "stock": 120,
+        "ratings": {
+            "average_rating": 4.5,
+            "review_count": 340
+        }
+    },
+    {
+        "product_id": 2,
+        "product_name": "Mechanical Keyboard",
+        "image_url": "https://example.com/images/mechanical_keyboard.jpg",
+        "price": 79.99,
+        "description": "A durable mechanical keyboard with customizable RGB backlighting.",
+        "categories": ["Electronics", "Accessories"],
+        "stock": 60,
+        "ratings": {
+            "average_rating": 4.8,
+            "review_count": 220
+        }
+    },
+    {
+        "product_id": 3,
+        "product_name": "Gaming Headset",
+        "image_url": "https://example.com/images/gaming_headset.jpg",
+        "price": 49.99,
+        "description": "A comfortable gaming headset with surround sound and noise-cancelling microphone.",
+        "categories": ["Electronics", "Audio"],
+        "stock": 200,
+        "ratings": {
+            "average_rating": 4.2,
+            "review_count": 150
+        }
+    },
+    {
+        "product_id": 4,
+        "product_name": "4K Monitor",
+        "image_url": "https://example.com/images/4k_monitor.jpg",
+        "price": 299.99,
+        "description": "A 27-inch 4K UHD monitor with vibrant colors and high refresh rate.",
+        "categories": ["Electronics", "Displays"],
+        "stock": 45,
+        "ratings": {
+            "average_rating": 4.7,
+            "review_count": 89
+        }
+    },
+    {
+        "product_id": 5,
+        "product_name": "Bluetooth Speaker",
+        "image_url": "https://example.com/images/bluetooth_speaker.jpg",
+        "price": 39.99,
+        "description": "A portable Bluetooth speaker with deep bass and 10-hour battery life.",
+        "categories": ["Electronics", "Audio"],
+        "stock": 150,
+        "ratings": {
+            "average_rating": 4.3,
+            "review_count": 410
+        }
+    },
+    {
+        "product_id": 6,
+        "product_name": "Smartphone",
+        "image_url": "https://example.com/images/smartphone.jpg",
+        "price": 599.99,
+        "description": "A flagship smartphone with a powerful processor and stunning display.",
+        "categories": ["Electronics", "Mobile Phones"],
+        "stock": 80,
+        "ratings": {
+            "average_rating": 4.6,
+            "review_count": 520
+        }
+    },
+    {
+        "product_id": 7,
+        "product_name": "Tablet",
+        "image_url": "https://example.com/images/tablet.jpg",
+        "price": 329.99,
+        "description": "A versatile tablet perfect for work, play, and everything in between.",
+        "categories": ["Electronics", "Tablets"],
+        "stock": 95,
+        "ratings": {
+            "average_rating": 4.4,
+            "review_count": 290
+        }
+    },
+    {
+        "product_id": 8,
+        "product_name": "Smartwatch",
+        "image_url": "https://example.com/images/smartwatch.jpg",
+        "price": 199.99,
+        "description": "A stylish smartwatch with fitness tracking and notification features.",
+        "categories": ["Electronics", "Wearables"],
+        "stock": 130,
+        "ratings": {
+            "average_rating": 4.5,
+            "review_count": 350
+        }
+    },
+    {
+        "product_id": 9,
+        "product_name": "Laptop",
+        "image_url": "https://example.com/images/laptop.jpg",
+        "price": 899.99,
+        "description": "A powerful laptop with fast SSD storage and a high-resolution display.",
+        "categories": ["Electronics", "Computers"],
+        "stock": 55,
+        "ratings": {
+            "average_rating": 4.7,
+            "review_count": 310
+        }
+    },
+    {
+        "product_id": 10,
+        "product_name": "Digital Camera",
+        "image_url": "https://example.com/images/digital_camera.jpg",
+        "price": 499.99,
+        "description": "A compact digital camera with 4K video recording and optical zoom.",
+        "categories": ["Electronics", "Cameras"],
+        "stock": 40,
+        "ratings": {
+            "average_rating": 4.6,
+            "review_count": 120
+        }
+    }
+]
